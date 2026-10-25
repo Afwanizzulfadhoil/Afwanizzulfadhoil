@@ -3,8 +3,7 @@ It's Me Afwan Izzul Fadhoil
 
 - 🌱 I’m currently learning
 
-- 📫 How to reach me:
-  Instagram : "@fadoiruu"
+- 📫 How to reach me: https://linktr.ee/Fadoiru
 
 - 🌐 My firts website : https://afwanizzulfadhoil.github.io/
 
