@@ -1,7 +1,13 @@
 ## Hi there 👋
 It's Me Afwan Izzul Fadhoil 
 
-🌱 I’m currently learning
+- 🌱 I’m currently learning
+
+- 📫 How to reach me:
+  Instagram : "@fadoiruu"
+
+- 🌐 My firts website : https://afwanizzulfadhoil.github.io/
+
 <!--
 **Afwanizzulfadhoil/Afwanizzulfadhoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
